@@ -28,17 +28,17 @@ These resources work best when customized for your specific situation. Think of 
 
 ### Collaboration Agreements
 Templates for establishing clear expectations between collaborators:
-- [Basic Collaboration Agreement](agreements/basic-collaboration-agreement.md)
+- [Basic Collaboration Agreement](profile/roles/agreements/basic-collaboration-agreement.md)
 - [Project Partnership Template](agreements/project-partnership-template.md)
 
 ### Role Definition
 Frameworks for defining clear roles and responsibilities:
-- [Team Roles Framework](roles/team-roles-framework.md)
+- [Team Roles Framework](profile/roles/team-roles-framework.md)
 - [Skills Assessment Guide](roles/skills-assessment-guide.md)
 
 ### Project Planning
 Resources for effective project planning and execution:
-- [Project Planning Canvas](planning/project-planning-canvas.md)
+- [Project Planning Canvas](/profile/roles/agreements/roles/planning/project-planning-canvas.md)
 - [Milestone Planning Template](planning/milestone-planning-template.md)
 
 ### Communication Guides
